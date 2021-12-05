@@ -1,4 +1,4 @@
-# Algorithims
+# Algorithms
 
   ![badge](https://img.shields.io/github/languages/top/ratalla816/algorithms)
   <br> 
