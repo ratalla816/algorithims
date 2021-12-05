@@ -1,14 +1,20 @@
-# Algorithms
+# algorithms
 
-  ![badge](https://img.shields.io/github/languages/top/ratalla816/algorithms)
+
+  ![badge](https://img.shields.io/github/languages/top/ratalla816/algorithms
+)
   <br> 
-  ![badge](https://img.shields.io/github/languages/count/ratalla816/algorithms)
+  ![badge](https://img.shields.io/github/languages/count/ratalla816/algorithms
+)
   <br>
-  ![badge](https://img.shields.io/github/issues/ratalla816/algorithms)
+  ![badge](https://img.shields.io/github/issues/ratalla816/algorithms
+)
   <br>
-  ![badge](https://img.shields.io/github/issues-closed/ratalla816/algorithms)
+  ![badge](https://img.shields.io/github/issues-closed/ratalla816/algorithms
+)
   <br>
-  ![badge](https://img.shields.io/github/last-commit/ratalla816/algorithms)
+  ![badge](https://img.shields.io/github/last-commit/ratalla816/algorithms
+)
   <br>
   ![badge](https://img.shields.io/badge/license-MIT-important)
   
