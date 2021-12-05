@@ -4,4 +4,23 @@
 // If a number is evenly divisible by both 3 AND 5, print "Fizz Buzz"
 // If a number is not divisible by 3 or 5, print the number
 
-var fizzBuzz = function(arr) {};
+// var fizzBuzz = function(arr) {};
+
+function fizzBuzz() {
+  for (let i = 1; i <= 100; i++) {
+    // MODULUS OPERATOR % //
+    if (i % 3 === 0 && i % 5 === 0) {
+      console.log('fizzBuzz');
+    } else if (i % 3 === 0) {
+      console.log("Fizz");
+    } else if (i % 5 === 0) {
+      console.log("Buzz");
+    } else {
+      console.log(i);
+    }
+  }
+}
+
+const output = fizzBuzz();
+
+console.log(output);
