@@ -10,3 +10,5 @@ var sumArray = function(arr) {
 
   return result;
 };
+
+// console.log('result is ' + (sumArray)[1,2,3,4],)
